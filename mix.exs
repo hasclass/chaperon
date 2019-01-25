@@ -87,7 +87,7 @@ defmodule Chaperon.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:httpoison, "~> 0.11.1"},
+      {:httpoison, "~> 0.13.0"},
       {:uuid, "~> 1.1"},
       {:poison, "~> 3.0"},
       {:histogrex, "~> 0.0.4"},
